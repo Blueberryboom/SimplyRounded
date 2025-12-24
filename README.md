@@ -1,3 +1,4 @@
+V1.0
 # SimplyRounded 
 
 SimplyRounded is a modern Home Assistant theme based of [**HA Dashboard's**](https://www.youtube.com/@HADashboards) Rounded Bubble design. Go subscribe to his channel, he makes some great content!

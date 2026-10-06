@@ -13,11 +13,7 @@ SimplyRounded is a modern Home Assistant theme based of [**HA Dashboard's**](htt
 
 ### 💾 Installation
 
-**Method 1: HACS**
-
-  Currently, SimplyRounded is not on HACS. :( 
-
-**Method 2: Manual Installation**
+**Manual Installation**
 
   *1.* Create a folder in the themes folder in your home assistant configuration.
   
